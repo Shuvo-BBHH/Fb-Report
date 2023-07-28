@@ -18,4 +18,4 @@ This is pythoon project fro auto reporting facebook terget acount in python....U
 
 
 # prove
-![Screenshot (506)](https://github.com/Shuvo-BBHH/Fb-Report/assets/98658558/39cfe076-faa6-4300-8528-7ada66baa06b)
+![Untitled Project (3)](https://github.com/Shuvo-BBHH/Fb-Report/assets/98658558/771bae3e-122d-4ffb-bc5d-ab8ccafb673d)
