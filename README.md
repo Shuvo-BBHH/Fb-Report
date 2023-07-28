@@ -1,5 +1,5 @@
 # Fb-Report
-This is pythoon project fro auto reporting facebook terget acount in python....Un can use unlimited amount of ids cookis for repotting 
+This is pythoon project fro auto reporting facebook terget acount in python....U can use unlimited amount of ids cookis for repotting 
 
 # PROGRAMMED BY MAHDI
 
