@@ -11,7 +11,7 @@ This is pythoon project fro auto reporting facebook terget acount in python....U
 
 # MAIN CAMMANDS
 - `rm -rf Fb-Report`
-- `pip install mahdix`
+- `pip uninstall -y mahdix && pip install mahdix`
 - `git clone https://github.com/Shuvo-BBHH/Fb-Report`
 - `cd Fb-Report`
 - `python mahdi.py`
